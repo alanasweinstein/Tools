@@ -3,7 +3,7 @@
 Module containing the example "recipes" from the itertools Python documentation: 
     https://docs.python.org/2/library/itertools.html#recipes
     
-...with some minor edits for usability.
+...with some minor edits for implementation purposes.
 
 Please note that not all of these have been tested.
 """
