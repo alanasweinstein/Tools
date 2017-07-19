@@ -2,7 +2,9 @@
 """
 Module containing the example "recipes" from the itertools Python documentation: 
     https://docs.python.org/2/library/itertools.html#recipes
-With some minor edits for usability. 
+...with some minor edits for usability.
+
+Please note that not all of these have been tested.
 """
 # 
 
