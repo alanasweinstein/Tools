@@ -47,7 +47,7 @@ def parse_arguments():
 
 def main():
     """
-
+    Parse arguments, filter regulon, and print to stdout.
     """
     # get commmand line args
     args = parse_arguments()
