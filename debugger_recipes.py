@@ -2,6 +2,7 @@
 """
 Debugger recipes from Ch. 3 of Wes McKinney's Python for Data Analysis (First Edition). Recipes and descriptions are copied verbatim. 
 """
+import sys
 
 def set_trace():
     """
